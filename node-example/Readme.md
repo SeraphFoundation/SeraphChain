@@ -10,7 +10,7 @@ cp -r SeraphChain/node-example/SeraphChain  /root/
 
 ```
 cd /root/SeraphChain
-./openethereum account new --config nodes/moc/moc.toml
+./openethereum account new --config nodes/validator/node.toml
 ```
 Returned address like that 0x00aa39d30f0d20ff03a22ccfc30b7efbfca597c2
 
